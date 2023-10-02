@@ -12,3 +12,4 @@ services:
       - db:/mnt/db
 volumes:
   db:
+//docker name edited
